@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "is_cleared": 1,
+        "clearance_date": "2024-12-20",
+        "departments": {
+            "Library": 1,
+            "Finance": 1,
+            "Registrar": 0
+        }
+    },
+    {
+        "id": "2",
+        "is_cleared": 0,
+        "clearance_date": null,
+        "departments": {
+            "Library": 0,
+            "Finance": 0,
+            "Registrar": 0
+        }
+    }
+]

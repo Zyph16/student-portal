@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "first_name": "Zykha",
+        "middle_name": "Doe",
+        "last_name": "Saludario",
+        "email": "zykha@gmail.com",
+        "phone": "1234567890",
+        "address": "123 Street, City",
+        "profile_image": "uploads/john_profile.jpg"
+    },
+    {
+        "id": 2,
+        "first_name": "Jane",
+        "middle_name": "Ann",
+        "last_name": "Doe",
+        "email": "jane@example.com",
+        "phone": "9876543210",
+        "address": "456 Avenue, City",
+        "profile_image": "uploads/jane_profile.jpg"
+    }
+]

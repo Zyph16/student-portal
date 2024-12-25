@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "subject": "Math",
+        "grade": "A",
+        "semester": "1st",
+        "year_level": "1st"
+    },
+    {
+        "id": 1,
+        "subject": "Science",
+        "grade": "B",
+        "semester": "1st",
+       "year_level": "1st"
+    },
+    {
+        "id": 1,
+        "subject": "History",
+        "grade": "A",
+        "semester": "2nd",
+        "year_level": "1st"
+    },
+    {
+        "id": 2,
+        "subject": "English",
+        "grade": "A",
+        "semester": "1st",
+        "year_level": "2nd"
+    }
+]
